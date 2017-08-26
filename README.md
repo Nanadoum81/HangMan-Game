@@ -1,2 +1,3 @@
-# hangmanApp
-A Simple hangman game for angular kickstart in 39 mins.
+# Hangman App
+A Simple hangman game for Angluar JS Basics Tutorial
+Check it out! https://nanadoum81.github.io/HangMan-Game/.
